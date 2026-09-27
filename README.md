@@ -28,9 +28,11 @@ Some of the sessions and topics that caught my attention:
 
 ## Images
 
-sasas
+Check out some pictures I have took at the event.
 
-![text](https://github.com/amaurybsouza/kubernetes-community-day-sp/blob/main/images/image-kcd1.jpg)
+![image1](https://github.com/amaurybsouza/kubernetes-community-day-sp/blob/main/images/image-kcd1.jpg)
+
+![image2]https://github.com/amaurybsouza/kubernetes-community-day-sp/blob/main/images/image-kcd-2.jpg
 
 ## 💡 Key Takeaways
 
