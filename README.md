@@ -26,6 +26,12 @@ Some of the sessions and topics that caught my attention:
 - 🛡️ **K8S Security by Design: Reduzindo superfície de ataque desde Day 0**
 - 📦 **Sua Supply Chain é maior do que o seu SBOM**
 
+## Images
+
+sasas
+
+![text](https://github.com/amaurybsouza/kubernetes-community-day-sp/blob/main/images/image-kcd1.jpg)
+
 ## 💡 Key Takeaways
 
 Three topics stood out to me:
