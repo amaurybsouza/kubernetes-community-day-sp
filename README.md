@@ -38,6 +38,7 @@ Check out some pictures I have took at the event.
 
 ![image4](https://github.com/amaurybsouza/kubernetes-community-day-sp/blob/main/images/image-kcd-4.jpg)
 
+![image5](https://github.com/amaurybsouza/kubernetes-community-day-sp/blob/main/images/image-kcd-5.jpg)
 
 ## 💡 Key Takeaways
 
